@@ -117,5 +117,3 @@ This repo is based on [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN). The data
 Thanks to the original authors for their work!
 
 
-# Contact
-For any questions, feel free to contact: `chenxin@stu.hfuu.edu.cn`

@@ -4,7 +4,7 @@ for Skeleton Based Action Recognition
 
 
 ## Architecture of MG-GCL
-![image](src/framework.jpg)
+![image](src/framework.png)
 # Prerequisites
 
 - Python >= 3.6
